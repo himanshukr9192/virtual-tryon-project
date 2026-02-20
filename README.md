@@ -170,6 +170,20 @@ Edit `config.py` to customize:
 - Reduce image resolution
 - Use smaller model variants
 
+## Results & Demo
+
+### Video Demonstration
+
+Watch the Virtual Try-On AI in action! Check out our demo video showing:
+- Automatic garment detection
+- Realistic try-on generation in real-time
+- Interactive UI walkthrough
+- End-to-end feature demonstration
+
+**[View Demo Video](https://github.com/himanshukr9192/virtual-tryon-project/releases)** - Full feature walkthrough and live results
+
+To experience it yourself, clone the repository and run `python frontend/app.py` to launch the interactive interface!
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
