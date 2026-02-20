@@ -182,6 +182,9 @@ Watch the Virtual Try-On AI in action! Check out our demo video showing:
 
 **[View Demo Video](https://github.com/himanshukr9192/virtual-tryon-project/releases)** - Full feature walkthrough and live results
 
+<img width="1900" height="935" alt="Screenshot 2026-02-21 031356" src="https://github.com/user-attachments/assets/e26fd38c-bcd2-4443-9ac6-0cbe257b99ce" />
+
+
 To experience it yourself, clone the repository and run `python frontend/app.py` to launch the interactive interface!
 
 ## Contributing
