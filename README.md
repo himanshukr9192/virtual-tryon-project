@@ -4,11 +4,11 @@ An AI-powered virtual try-on tool that automatically recognizes clothing items a
 
 ## Features
 
-**Automatic Clothing Classification** - Zero-shot detection using CLIP to identify garment types
-**Semantic Masking** - Intelligent placement of clothing items on the body
-**High-Quality Rendering** - Uses Stable Diffusion for photorealistic draping
-**Easy-to-Use Interface** - Interactive Gradio UI for quick try-ons
-**Production-Ready** - FastAPI backend with modular architecture
+- **Automatic Clothing Classification** - Zero-shot detection using CLIP to identify garment types
+- **Semantic Masking** - Intelligent placement of clothing items on the body
+- **High-Quality Rendering** - Uses Stable Diffusion for photorealistic draping
+- **Easy-to-Use Interface** - Interactive Gradio UI for quick try-ons
+- **Production-Ready** - FastAPI backend with modular architecture
 
 ## Tech Stack
 
